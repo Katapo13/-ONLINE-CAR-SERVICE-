@@ -1,5 +1,5 @@
 ![image](Wavy_Tech-14_Single-042.jpg)
-# CARS ERVICE
+# CARS SERVICE
 An online consultant for your car who will help you maintain your car and give detailed answers to all your questions.
 
 ## The target audience
