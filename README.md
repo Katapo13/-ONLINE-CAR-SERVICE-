@@ -10,13 +10,13 @@ Novice drivers who are poorly versed in the design and maintenance of a car, as 
 
 • Provides clear and detailed algorithms for troubleshooting, including using a voice assistant;
 
-• Has information about all the nearest car services (reviews, prices, online registration), about places where you can buy certain parts; 
+• Has information about all the nearest car services (reviews, prices, call number), about places where you can buy certain parts; 
 
 • Diagnoses a car by the sound of a running engine; 
 
 • Sends reminders about making an appointment at a car service center, the need to undergo a technical inspection, changing tires, turning on headlights, etc.; 
 
-• Will be equipped with emergency call keys;
+• Information about the main characteristics of various car brands.;
 
 • Has a built-in navigator, with information about the nearest rest areas, gas stations, first-aid posts; 
 
