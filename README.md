@@ -23,3 +23,6 @@ Novice drivers who are poorly versed in the design and maintenance of a car, as 
 • Contains information about currency exchange rates and gasoline prices.
 
 This online service will help inexperienced drivers avoid difficulties in servicing their car, and will also make its use more comfortable.
+
+Interface model in Figma
+https://www.figma.com/proto/ttLhA3M34Xut5FMCdctf0u/Untitled?node-id=13-43&p=f&t=JWox1wFDcDsp4lAF-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A43
